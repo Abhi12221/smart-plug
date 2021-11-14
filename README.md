@@ -1,4 +1,4 @@
-# smart-plug
+# Smart Plug
 Make A normal plug smart!!!
 # How to make
 ## Step 1
